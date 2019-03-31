@@ -1,4 +1,4 @@
-#Vim run command
+# Vim run command
 ## Location
 - User level: $HOME/.vimrc
 
