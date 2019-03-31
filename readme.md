@@ -27,9 +27,13 @@
 ### 文本的剪切/拷贝/粘贴
     - 剪切/删除行: dd
     - 剪切/删除单个字符: x
+    - 剪切/删除单词: dw 
+    - 删除当前光标到行尾/行首: d$ / d^ 
     - 拷贝: yy
     - 粘贴: p/P (光标后/光标前) 
     - 撤销: u
     - 复制字符串/单词: yw / y2w (复制单词/复制当前两个单词)
 
-There are somthing maybe you could do
+There are somthing maybe you could do 1
+There are somthing maybe you could do 2
+There are somthing maybe you could do 3
